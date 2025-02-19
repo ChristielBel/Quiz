@@ -13,7 +13,6 @@ class MainActivityViewModel : ViewModel() {
     )
 
     private var currentIndex = 0
-
     var isCheater = false
 
     val currentQuestionAnswer: Boolean

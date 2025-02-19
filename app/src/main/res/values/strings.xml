@@ -1,13 +1,16 @@
 <resources>
     <string name="app_name">Lab2</string>
 
-    <string name="question1">Если еж съест ядовитую змею, он погибнет</string>
-    <string name="question2">Ласка - это самое маленькое животное из отряда хищных</string>
-    <string name="question3">Убегая, заяц может развивать скорость до 100 км/ч</string>
-    <string name="question4">Синицы получили свое название из-за окраски сине-черной</string>
-    <string name="question5">Зубцы зайца растут всю жизнь</string>
+    <string name="question1">Если еж съест ядовитую змею, он погибнет.</string>
+    <string name="question2">Ласка - это самое маленькое животное из отряда хищных.</string>
+    <string name="question3">Убегая, заяц может развивать скорость до 100 км/ч.</string>
+    <string name="question4">Синицы получили свое название из-за окраски сине-черной.</string>
+    <string name="question5">Зубцы зайца растут всю жизнь.</string>
 
-    <string name="false_text">Ложно</string>
+    <string name="false_text">Неверно</string>
     <string name="true_text">Верно</string>
     <string name="cheater_text">Списывать плохо!!!!</string>
+    <string name="answer">Посмотреть ответ</string>
+    <string name="cheater_text2">Подглядывать плохо!!!!</string>
+    <string name="come_back">Вернуться</string>
 </resources>
