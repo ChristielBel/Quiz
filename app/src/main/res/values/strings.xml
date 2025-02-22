@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab2</string>
+    <string name="app_name">Quiz</string>
 
     <string name="question1">Если еж съест ядовитую змею, он погибнет.</string>
     <string name="question2">Ласка - это самое маленькое животное из отряда хищных.</string>
